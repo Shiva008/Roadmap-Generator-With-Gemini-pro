@@ -18,6 +18,7 @@ Empower your professional development: Take control of your learning and equip y
 This project represents a significant advancement in the realm of personalized learning, making it easier than ever to chart your course towards technical mastery.
 
 
-![Screenshot (75)](https://github.com/Shiva008/Roadmap-Generator-With-Gemini-pro/assets/91310677/b2415d8b-acdf-48aa-be86-6fafbc0165b8)
+![Screenshot (77)](https://github.com/Shiva008/Roadmap-Generator-With-Gemini-pro/assets/91310677/9533b552-fdda-405c-9548-68d7d44b60c1)
+
 
 ![Screenshot (76)](https://github.com/Shiva008/Roadmap-Generator-With-Gemini-pro/assets/91310677/033ceca3-6c68-4afa-a8e4-f8da74f5dc04)
