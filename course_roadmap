@@ -1,0 +1,20 @@
+digraph {
+	"Python Basics"
+	"Intermediate Python"
+	"Python Basics"
+	"Python Basics" -> "Intermediate Python"
+	"Advanced Python"
+	"Intermediate Python"
+	"Intermediate Python" -> "Advanced Python"
+	"Data Structures"
+	"Intermediate Python"
+	"Intermediate Python" -> "Data Structures"
+	Algorithms
+	"Data Structures"
+	"Data Structures" -> Algorithms
+	"Machine Learning"
+	"Data Structures"
+	"Data Structures" -> "Machine Learning"
+	Algorithms
+	Algorithms -> "Machine Learning"
+}
